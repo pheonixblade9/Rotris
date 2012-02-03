@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>blackBox.png</Source>
+      <Name>blackBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\blackBox.xnb</Output>
+      <Time>2011-04-20T18:42:19.4949563-04:00</Time>
+    </Item>
+    <Item>
+      <Source>blueBox.png</Source>
+      <Name>blueBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\blueBox.xnb</Output>
+      <Time>2011-04-20T19:20:47.9179906-04:00</Time>
+    </Item>
+    <Item>
+      <Source>greenBox.png</Source>
+      <Name>greenBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\greenBox.xnb</Output>
+      <Time>2011-04-20T19:20:53.0422837-04:00</Time>
+    </Item>
+    <Item>
+      <Source>redBox.png</Source>
+      <Name>redBox</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\redBox.xnb</Output>
+      <Time>2011-04-20T19:20:57.3685311-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\RotrisContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\RotrisContent\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2011-08-19T18:13:58.0896141-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

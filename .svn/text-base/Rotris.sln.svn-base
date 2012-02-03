@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rotris", "Rotris\Rotris\Rotris.csproj", "{360C2C11-5EA9-4534-8769-8C319AE2BC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rotrisContent", "Rotris\RotrisContent\rotrisContent.contentproj", "{D475B44E-BC05-46C6-BDB3-719F6B1D3C3F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{360C2C11-5EA9-4534-8769-8C319AE2BC8E}.Debug|x64.ActiveCfg = Debug|x86
+		{360C2C11-5EA9-4534-8769-8C319AE2BC8E}.Debug|x64.Build.0 = Debug|x86
+		{360C2C11-5EA9-4534-8769-8C319AE2BC8E}.Debug|x86.ActiveCfg = Debug|x86
+		{360C2C11-5EA9-4534-8769-8C319AE2BC8E}.Debug|x86.Build.0 = Debug|x86
+		{360C2C11-5EA9-4534-8769-8C319AE2BC8E}.Release|x64.ActiveCfg = Release|x86
+		{360C2C11-5EA9-4534-8769-8C319AE2BC8E}.Release|x64.Build.0 = Release|x86
+		{360C2C11-5EA9-4534-8769-8C319AE2BC8E}.Release|x86.ActiveCfg = Release|x86
+		{360C2C11-5EA9-4534-8769-8C319AE2BC8E}.Release|x86.Build.0 = Release|x86
+		{D475B44E-BC05-46C6-BDB3-719F6B1D3C3F}.Debug|x64.ActiveCfg = Debug|x86
+		{D475B44E-BC05-46C6-BDB3-719F6B1D3C3F}.Debug|x86.ActiveCfg = Debug|x86
+		{D475B44E-BC05-46C6-BDB3-719F6B1D3C3F}.Release|x64.ActiveCfg = Release|x86
+		{D475B44E-BC05-46C6-BDB3-719F6B1D3C3F}.Release|x86.ActiveCfg = Release|x86
+		{D475B44E-BC05-46C6-BDB3-719F6B1D3C3F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

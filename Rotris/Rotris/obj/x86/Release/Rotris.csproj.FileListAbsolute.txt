@@ -1,0 +1,20 @@
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\bin\x86\Release\Content\blackBox.xnb
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\bin\x86\Release\Content\blueBox.xnb
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\bin\x86\Release\Content\greenBox.xnb
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\bin\x86\Release\Content\redBox.xnb
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\bin\x86\Release\Rotris.exe
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\bin\x86\Release\Rotris.pdb
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\obj\x86\Release\Rotris.exe
+C:\Users\admin\Desktop\Old Homework\CS3310\Complete\Rotris\Rotris\Rotris\obj\x86\Release\Rotris.pdb
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\blackBox.xnb
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\blueBox.xnb
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\greenBox.xnb
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Content\redBox.xnb
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Rotris.exe
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\bin\x86\Release\Rotris.pdb
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\obj\x86\Release\Rotris.exe
+C:\Users\Cody_Laptop\Desktop\Projects\Rotris\Rotris\Rotris\obj\x86\Release\Rotris.pdb

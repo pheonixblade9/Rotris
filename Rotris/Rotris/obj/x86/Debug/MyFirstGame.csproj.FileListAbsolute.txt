@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\bin\x86\Debug\Rotris.exe
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\bin\x86\Debug\Rotris.pdb
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\obj\x86\Debug\Rotris.exe
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\obj\x86\Debug\Rotris.pdb
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\bin\x86\Debug\Content\sprite.xnb
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\bin\x86\Debug\Content\sprite2.xnb
+C:\Users\admin\Desktop\CS3310\Rotris\Rotris\Rotris\bin\x86\Debug\Content\coin.xnb
+C:\Users\admin\Desktop\CS3310\Rotris - Copy\Rotris\Rotris\bin\x86\Debug\Rotris.exe
+C:\Users\admin\Desktop\CS3310\Rotris - Copy\Rotris\Rotris\bin\x86\Debug\Rotris.pdb
+C:\Users\admin\Desktop\CS3310\Rotris - Copy\Rotris\Rotris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\admin\Desktop\CS3310\Rotris - Copy\Rotris\Rotris\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\admin\Desktop\CS3310\Rotris - Copy\Rotris\Rotris\obj\x86\Debug\Rotris.exe
+C:\Users\admin\Desktop\CS3310\Rotris - Copy\Rotris\Rotris\obj\x86\Debug\Rotris.pdb
+C:\Users\admin\Desktop\CS3310\Rotris - Copy\Rotris\Rotris\bin\x86\Debug\Content\transBox.xnb
